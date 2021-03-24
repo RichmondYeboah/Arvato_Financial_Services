@@ -37,7 +37,7 @@ Using principal component analysis(PCA) and unsupervised techniques KMeans, orig
 
 ## File Descriptions <a name="files"></a>
 
-- There are two iPython notebook files and two supporting files 
+- There are two iPython notebook files and two supporting files  
 **Arvato Project Workbook - Part1 - Data Wrangling.ipynb** - Data exploratin and clean  
 **Arvato Project Workbook - Part2 - Segmentation & Prediction.ipynb** - PCA, unsupervised learning model for customer segementation and supervised learning model for prediction  
 **utils.py** - Collective functions generated in Part1 to be used in the project  
