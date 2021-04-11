@@ -46,7 +46,7 @@ Using principal component analysis(PCA) and unsupervised techniques KMeans, orig
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/p/e19ddc729295/edit), or [知乎](https://zhuanlan.zhihu.com/p/360846170).
+The main findings of the code can be found at the post available [on Medium](https://medium.com/p/e19ddc729295/edit), or [知乎](https://zhuanlan.zhihu.com/p/360846170).
 
 ## Licensing, Authors, Acknowledgements<a name="Acknowledgements"></a>
 Thanks to Udacity for providing this excellent project and and Bertelsmann Arvato Analytics for providing opportunity to apply my data science skills on a real-life problem.
